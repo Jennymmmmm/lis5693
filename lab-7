@@ -23,12 +23,12 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/Jennymmmmm/lis5693/blob/main/lab-7/Jenny%20Min\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/Jennymmmmm/lis5693/blob/main/lab-7\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
       "cell_type": "code",
-      "execution_count": 1,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -87,7 +87,7 @@
         "id": "yyKwUC34fYjw",
         "outputId": "0e6092e4-2071-4739-dac9-a8beca2ca415"
       },
-      "execution_count": 5,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -111,7 +111,7 @@
       "metadata": {
         "id": "2R1rRGfWhgHi"
       },
-      "execution_count": 8,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -122,7 +122,7 @@
       "metadata": {
         "id": "es96oLsshq3F"
       },
-      "execution_count": 11,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -138,7 +138,7 @@
         "id": "kaoz8rXQh0LA",
         "outputId": "edcf53f6-7984-4bce-b690-df8313509087"
       },
-      "execution_count": 13,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -180,7 +180,7 @@
       "metadata": {
         "id": "xHhHLW61h4II"
       },
-      "execution_count": 14,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -215,7 +215,7 @@
         "id": "j4N3laMNh68f",
         "outputId": "f609ab6b-4c5f-4798-99c6-d42185efe083"
       },
-      "execution_count": 16,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -250,7 +250,7 @@
         "id": "YiyoU969iB0o",
         "outputId": "7e40b0fc-b957-4351-e758-95b8ed614b81"
       },
-      "execution_count": 17,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -296,7 +296,7 @@
         "id": "3jcb0R7diFHD",
         "outputId": "5cb1229d-e14f-41be-b8c0-8891e7db8120"
       },
-      "execution_count": 18,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -491,7 +491,7 @@
         "id": "TfPKPWDHiHlM",
         "outputId": "d841ea3b-da64-48e7-d69a-9837db2c9011"
       },
-      "execution_count": 20,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -535,7 +535,7 @@
         "id": "FfUNXCJxikvh",
         "outputId": "c8163890-c887-4504-aa7e-b8025161d135"
       },
-      "execution_count": 24,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -587,7 +587,7 @@
         "id": "LVKXse5jitfa",
         "outputId": "67587202-eb1f-48de-93b9-33b5ed527300"
       },
-      "execution_count": 26,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
